@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    
+}
+
+.product-container {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
